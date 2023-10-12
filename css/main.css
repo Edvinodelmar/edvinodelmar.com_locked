@@ -1,0 +1,23 @@
+body{
+  margin:0;
+  padding: 0;
+}
+a img{
+  width: auto;
+  height: 400px;
+}
+
+.rad{
+  width: 1208px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rad a:hover{
+  opacity: 75%;
+}
+
+.soon{
+  opacity: 50%;
+}

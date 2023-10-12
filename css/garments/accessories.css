@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F9F6EE;
+}
+
+.home-icon{
+  width: 50px;
+  height: 100%;
+
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-icon:hover{
+  width: 50px;
+  height: 100%;
+
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+  opacity: 50%;
+}
+
+
+.itemlist{
+  width: 1000px;
+  height: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+
+}
+
+.itemlist img{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 15%;
+  width: 216px;
+  height: 164.41162px;
+}
+
+.itemlist img:hover{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 15%;
+  width: 216px;
+  height: 164.41162px;
+  opacity: 50%;
+}
