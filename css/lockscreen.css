@@ -3,6 +3,7 @@ body{
   padding: 0;
   background-color: #F9F6EE;
   overflow: hidden; /* Hide scrollbars */
+    background-color: #0000ff;
 }
 
 img{
